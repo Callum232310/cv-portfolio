@@ -9,7 +9,7 @@ During the galvanisation of steel, one crucial step involves submerging preheate
 
 The source code in this repository accompanies research conducted as part of Case Study 2: Splatter Severity Measurement.
 
-![Splatter Study Schematic](splatterDiagram.png)
+<img src="splatterDiagram.png" alt="Splatter Study Schematic" width="600"/>
 
 # Acknowledgements
 

@@ -8,7 +8,7 @@ This repo showcases my portfolio of computer vision work, covering everything fr
 
 | Project | Status | Description | Skills Highlighted |
 |--------|---------|-------------|--------------------|
-| [EngD Case Studies](./EngD) | ✅&nbsp;Completed | Industrial CV R&D in steel manufacturing environments | Classical CV, real-world constraints, experimental design |
+| [EngD Case Studies](./EngD) | ✅&nbsp;Completed | Industrial CV R&D in steel manufacturing environments | Classical CV, deep learning, real-world constraints, experimental design |
 | [People Counter](./PeopleCounter) | 🔨&nbsp;In Progress | Scalable edge CV system with cloud MLOps stack | FastAPI, Docker, AWS, MQTT, CI/CD, prometheus, grafana |
 | [Productivity&nbsp;Tracker](./ProductivityTracker) | 🧪&nbsp;Prototyping | Pose/activity tracking on NVIDIA Jetson with C++ optimisation | NVIDIA Jetson, embedded CV, C++, ONNX, TensorRT, CUDA |
 | [Optimisation&nbsp;Showcase](./OptimisationShowcase) | 📝&nbsp;Planned | Benchmarking open-source Python vs. C++ OpenCV projects | C++ performance tuning, metrics, profiling |

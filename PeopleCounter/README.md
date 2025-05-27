@@ -10,7 +10,7 @@ It also serves as an end-to-end application of my experience in computer vision,
 
 ## 🏗️ System Architecture
 
-![System Architecture Diagram](PeopleCounterSystemArchitecture.png)  
+<img src="PeopleCounterSystemArchitecture.png" alt="System Architecture Diagram" width="600"/>
 *Overview of diagram here*
 
 Key technologies:

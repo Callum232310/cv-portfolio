@@ -1,4 +1,4 @@
-# 👥 People Counter – Edge-Cloud-iOS Computer Vision System
+# 👥 People Counter: Edge-Cloud-iOS Computer Vision System
 
 ## 📘 Background
 

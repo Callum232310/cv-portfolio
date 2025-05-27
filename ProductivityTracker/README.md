@@ -1,5 +1,5 @@
 
-# 🧠 Productivity Tracker: Embedded Pose & Activity Monitoring System
+# 🧠 Productivity Tracker: Pose & Activity Monitoring System
 
 ## 📘 Background
 

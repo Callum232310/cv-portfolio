@@ -26,7 +26,7 @@ This repo showcases my portfolio of computer vision work, covering everything fr
 
 ## 📎 Why This Portfolio
 
-While my experience comes from applied research and self-driven projects, this portfolio demonstrates industrial suitability:
+While my experience comes from applied research and self-driven projects, this portfolio demonstrates industrial alignment:
 
 - 🔄 Owning and iterating pipelines from **data acquisition → model development → deployment & monitoring**
 - 📦 System design thinking with **Containerisation, API integration, CI/CD and infrastructure planning**

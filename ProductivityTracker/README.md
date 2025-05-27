@@ -13,7 +13,8 @@ It also serves as a deep-dive into C++ CV deployment, real-time deployment, CUDA
 
 ## 🏗️ System Architecture
 
-![System Architecture Diagram](ProductivityTrackerSystemArchitecture.png)  
+<img src="ProductivityTrackerSystemArchitecture.png" alt="System Architecture Diagram" width="600"/>
+
 *Description of diagram here.*
 
 Key technologies:

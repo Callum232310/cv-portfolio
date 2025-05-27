@@ -32,6 +32,7 @@ While my experience comes from applied research and self-driven projects, this p
 - 📦 System design thinking with **Containerisation, API integration, CI/CD and infrastructure planning**
 - 📡 Experience with **production constraints** across data, edge devices, and cloud infrastructure
 
+---
 
 ## 🧰 Tools & Technologies
 

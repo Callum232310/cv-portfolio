@@ -15,16 +15,16 @@ It also serves as a deep-dive into C++ CV deployment, real-time deployment, CUDA
 
 <img src="ProductivityTrackerSystemArchitecture.png" alt="System Architecture Diagram" width="600"/>
 
-*Description of diagram here.*
-
-Key technologies:
-- **NVIDIA Jetson** for edge inference and data collection  
-- **ONNX** for lightweight pose estimation model deployment  
-- **TensorRT** for GPU acceleration  
-- **CUDA** for C++/GPU parallelism  
-- **OpenCV (C++)** for image processing  
-- **MQTT** for optional low-overhead streaming to clients  
-- **Bash** for deployment scripts
+**Overview:**
+- **NVIDIA Jetson** for edge-based data collection
+- **Pose Estimator** for pose estimation
+- **Gaze Estimator** for gaze estimation
+- **Time Series Model** for key/mouse log data classification
+- **Stream Processor** for aggregating and processing user behaviour
+- **PC Agent** for capturing key/mouse logs
+- **FastAPI** for serving behaviour data and device communication
+- **Docker** for containerising services for modularity and portability
+- **Prometheus + Grafana** for monitoring system/application metrics and visualising performance
 
 ---
 

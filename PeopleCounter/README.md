@@ -11,16 +11,14 @@ It also serves as an end-to-end application of my experience in computer vision,
 ## 🏗️ System Architecture
 
 <img src="PeopleCounterSystemArchitecture.png" alt="System Architecture Diagram" width="600"/>
-*Overview of diagram here*
 
-Key technologies:
-- **Raspberry Pi** for on-device detection
-- **MQTT** for lightweight IoT messaging
-- **FastAPI** for the backend REST API
-- **Docker** for service containerisation
-- **Prometheus + Grafana** for metrics and monitoring
-- **GitHub Actions** for automated testing and deployment
-- **AWS** for ECR, ECS, EFS, DynamoDB
+**Overview:**
+- **Raspberry Pi** for edge-based people detection
+- **MQTT** for lightweight message queuing between devices and backend
+- **FastAPI** for serving real-time detection data and device communication
+- **Docker** to containerise services for modularity and portability
+- **Prometheus + Grafana** to monitor system/application metrics and visualise performance
+- **AWS (ECR, ECS, EFS, DynamoDB)** to host scalable backend infrastructure
 - **Swift** for delivery via iOS app
 
 ---

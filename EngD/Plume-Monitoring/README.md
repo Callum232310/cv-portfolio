@@ -11,7 +11,7 @@ In this work, a novel approach is presented which utilises machine learning-base
 
 The source code in this repository accompanies research conducted as part of Case Study 3: Plume Monitoring.
 
-<img src="plumeDiagram.png" alt="Plume Study Schematic" width="600"/>
+<img src="plumeDiagram.png" alt="Plume Study Schematic" width="400"/>
 
 # Acknowledgements
 

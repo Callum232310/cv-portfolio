@@ -29,11 +29,6 @@ Key technologies:
 
 ## 🌍 Real-World Application
 
-This system is intended for environments such as:
-- Desk-level posture tracking in offices or labs
-- Fatigue detection in industrial workstations
-- Basic movement classification for fitness or rehab settings
-
 This system is intended to validate and enhance productivity in a variety of desk-based environments, especially remote work settings. By tracking posture, activity, and input behaviour locally, it can provide actionable insights without intrusive monitoring. Potential applications include:
 
 - Validating WFH/office productivity via behaviour analysis

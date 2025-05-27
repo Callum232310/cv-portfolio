@@ -16,9 +16,9 @@ It also serves as an end-to-end application of my experience in computer vision,
 - **Raspberry Pi** for edge-based people detection
 - **MQTT** for lightweight message queuing between devices and backend
 - **FastAPI** for serving real-time detection data and device communication
-- **Docker** to containerise services for modularity and portability
-- **Prometheus + Grafana** to monitor system/application metrics and visualise performance
-- **AWS (ECR, ECS, EFS, DynamoDB)** to host scalable backend infrastructure
+- **Docker** for containerising services for modularity and portability
+- **Prometheus + Grafana** for monitoring system/application metrics and visualising performance
+- **AWS (ECR, ECS, EFS, DynamoDB)** for hosting scalable backend infrastructure
 - **Swift** for delivery via iOS app
 
 ---
